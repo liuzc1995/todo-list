@@ -1,0 +1,15 @@
+<html>
+
+<head>
+    {{if .Title}}
+    <title>{{.Title}}</title>
+    {{else}}
+    <title>Welcome!</title>
+    {{end}}
+</head>
+
+<body>
+    {{template "content" .}}
+</body>
+
+</html>
