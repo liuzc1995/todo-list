@@ -17,8 +17,8 @@ type IndexViewModelOp struct{}
 
 func (IndexViewModelOp) GetVM() IndexViewModel {
 	v := IndexViewModel{}
-	td, _ := model.GetTask(1) //进行中事务
-	tf, _ := model.GetTask(2) //已完成事务
+	td, _ := model.GetTask(0) //进行中事务
+	tf, _ := model.GetTask(1) //已完成事务
 	v.TaskDoing = td
 	v.TaskFinish = tf
 	log.Debug(tf)

@@ -15,6 +15,7 @@ func init() {
 //设置config
 func getConfig(projectName string) {
 	viper.SetConfigName("config") // name of config file (without extension)
+	viper.AddConfigPath("../..")
 
 	viper.AddConfigPath(".") // optionally look for config in the working directory
 
