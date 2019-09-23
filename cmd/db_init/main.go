@@ -12,7 +12,8 @@ func main() {
 	db := model.ConnectToDB()
 	defer db.Close()
 	model.SetDB(db)
-
-	db.DropTableIfExists(model.User{})
-	db.Set("gorm:table_options", "ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1;").CreateTable(model.User{})
+	err := db.Set("gorm:table_options", "ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1;").CreateTable(model.Task{})
+	if err != nil {
+		log.Println(err)
+	}
 }

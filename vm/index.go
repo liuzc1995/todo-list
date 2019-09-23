@@ -9,6 +9,6 @@ type IndexViewModelOp struct{}
 
 func (IndexViewModelOp) GetVM() IndexViewModel {
 	v := IndexViewModel{}
-	v.SetTitle("Homepage")
+	v.SetTitle("TodoList")
 	return v
 }
