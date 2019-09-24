@@ -10,18 +10,19 @@ type Task struct {
 	UpdateTime time.Time `sql:"DEFAULT:current_timestamp"`
 }
 
-//通过ID获取事务
-func GetTaskByID(id int) (*Task, error) {
+//通过状态获取事务
+func GetTaskByStatus(status int64) (*Task, error) {
 	var task Task
-	if err := db.Where("id=", id).Find(&task).Error; err != nil {
+	if err := db.Where("status=", status).Find(&task).Error; err != nil {
 		return nil, err
 	}
 	return &task, nil
 }
 
-func GetTask(status int64) (*Task, error) {
+//通过ID获取事务
+func GetTaskByID(id int) (*Task, error) {
 	var task Task
-	if err := db.Where("status=", status).Find(&task).Error; err != nil {
+	if err := db.Where("id=", id).Find(&task).Error; err != nil {
 		return nil, err
 	}
 	return &task, nil

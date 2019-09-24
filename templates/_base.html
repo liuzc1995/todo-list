@@ -1,15 +1,19 @@
 <html>
 
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{if .Title}}
     <title>{{.Title}}</title>
     {{else}}
     <title>ToDoList!</title>
     {{end}}
+    <link rel="stylesheet" type="text/css" href="../assets/css/global.css">
 </head>
 
 <body>
-    {{template "content" .}}
+    <div class="container">
+        {{template "content" .}}
+    </div>
 </body>
 
 </html>
