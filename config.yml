@@ -4,3 +4,6 @@ mysql:
   host: localhost
   password: schoollzc1
   user: root
+watch_path:
+  - "./static"
+  - "./templates"

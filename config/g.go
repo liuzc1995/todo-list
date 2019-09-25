@@ -8,17 +8,17 @@ import (
 
 //初始config
 func init() {
-	projectName := "sample-frame"
-	getConfig(projectName)
+	getConfig()
 }
 
 //设置config
-func getConfig(projectName string) {
+func getConfig() {
+	// v := viper.New()
 	viper.SetConfigName("config") // name of config file (without extension)
 	viper.AddConfigPath("../..")
 
 	viper.AddConfigPath(".") // optionally look for config in the working directory
-
+	viper.SetConfigType("yaml")
 	err := viper.ReadInConfig() // Find and read the config file
 	if err != nil {             // Handle errors reading the config file
 		panic(fmt.Errorf("Fatal error config file: %s", err))
@@ -36,4 +36,9 @@ func GetMysqlConnectingString() string {
 	return fmt.Sprintf("%s:%s@tcp(%s:3306)/%s?charset=%s&parseTime=true", usr, pwd, host, db, charset)
 }
 
-//邮件配置
+//取监控路径
+// func GetWatchPath() []string {
+// 	var paths []string
+// 	path := viper.Get("watch_path")
+// 	return paths
+// }
