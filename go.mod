@@ -1,8 +1,8 @@
-module gggo
-
-go 1.12
+module github.com/542213314/frame-sample
 
 replace golanger.com => /Users/richLc/Documents/golang/modules/golanger.com
+
+go 1.12
 
 require (
 	cloud.google.com/go v0.44.3 // indirect

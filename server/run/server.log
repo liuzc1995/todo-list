@@ -1,0 +1,4 @@
+[DEBUG] 2019/09/26 17:29:36 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:29:36 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:29:36 watch.go:86: Start server - pid:36091
+2019/09/26 17:29:36 g.go:20: Connet to db...
