@@ -1684,3 +1684,148 @@ controller/home.go:57:10: cannot use ret (type []byte) as type io.Writer in argu
 [DEBUG] 2019/09/27 17:19:30 watch.go:81: OutPut: 
 [DEBUG] 2019/09/27 17:19:30 watch.go:86: Start server - pid:54302
 2019/09/27 17:19:30 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 17:33:53 watch.go:128: watch event:"controller/task.go": CREATE
+[DEBUG] 2019/09/27 17:33:58 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:33:58 watch.go:66: Error: exit status 1
+[DEBUG] 2019/09/27 17:33:58 watch.go:67: OutPut: server.go:12:2: 
+controller/task.go:1:1: expected 'package', found 'EOF'
+[DEBUG] 2019/09/27 17:34:19 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:34:19 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:34:20 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:34:25 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:34:25 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 17:34:25 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 17:34:25 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 17:34:25 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 17:34:25 watch.go:86: Start server - pid:56163
+2019/09/27 17:34:25 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 17:35:26 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 17:35:26 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 17:35:27 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 17:35:32 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:35:32 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 17:35:32 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 17:35:32 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 17:35:32 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 17:35:32 watch.go:86: Start server - pid:56246
+2019/09/27 17:35:32 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 17:35:41 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:35:41 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:35:42 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:35:46 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:35:46 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:35:46 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:8:1: syntax error: unexpected }, expecting name or (
+[DEBUG] 2019/09/27 17:35:50 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:35:50 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:35:51 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:35:54 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:35:54 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:35:54 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:9:2: r declared and not used
+[DEBUG] 2019/09/27 17:41:40 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 17:41:40 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 17:41:42 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 17:41:45 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:41:45 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:41:45 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:9:2: r declared and not used
+[DEBUG] 2019/09/27 17:42:36 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:42:36 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:42:37 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:42:40 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:42:40 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:42:40 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:10:14: not enough arguments in call to r.HandleFunc
+	have (string)
+	want (string, func(http.ResponseWriter, *http.Request))
+controller/task.go:13:6: missing function body
+controller/task.go:13:31: undefined: http
+[DEBUG] 2019/09/27 17:42:50 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:42:50 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:42:51 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:42:54 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:42:54 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:42:54 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:10:14: not enough arguments in call to r.HandleFunc
+	have (string)
+	want (string, func(http.ResponseWriter, *http.Request))
+controller/task.go:13:6: missing function body
+controller/task.go:13:31: undefined: http
+[DEBUG] 2019/09/27 17:43:02 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:43:02 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:43:03 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:43:07 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:43:07 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:43:07 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:14:14: not enough arguments in call to r.HandleFunc
+	have (string)
+	want (string, func(http.ResponseWriter, *http.Request))
+controller/task.go:17:6: missing function body
+[DEBUG] 2019/09/27 17:43:28 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:43:28 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:43:29 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:43:34 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:43:34 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 17:43:34 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 17:43:34 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 17:43:34 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 17:43:34 watch.go:86: Start server - pid:56554
+2019/09/27 17:43:34 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 17:44:11 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:44:11 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:44:12 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:44:16 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:44:16 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:44:16 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:21:3: m declared and not used
+[DEBUG] 2019/09/27 17:44:38 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:44:38 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:44:39 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:44:43 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:44:43 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:44:43 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:21:3: m declared and not used
+[DEBUG] 2019/09/27 17:44:56 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:44:56 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:44:57 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:45:00 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:45:00 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:45:00 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:25:13: undefined: json
+[DEBUG] 2019/09/27 17:45:10 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:45:10 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:45:11 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:45:14 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:45:14 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:45:15 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:45:18 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:45:18 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 17:45:18 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/task.go:26:3: ret declared and not used
+[DEBUG] 2019/09/27 17:45:25 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 17:45:25 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 17:45:31 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:45:31 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 17:45:31 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 17:45:31 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 17:45:31 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 17:45:31 watch.go:86: Start server - pid:56718
+2019/09/27 17:45:31 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 17:46:01 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 18:00:44 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 18:00:44 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 18:00:46 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 18:00:47 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 18:00:47 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 18:00:50 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 18:00:50 watch.go:128: watch event:"controller/g.go": CHMOD
+[DEBUG] 2019/09/27 18:00:50 watch.go:128: watch event:"controller/g.go": WRITE
+[DEBUG] 2019/09/27 18:00:51 watch.go:128: watch event:"controller/g.go": CHMOD
+[DEBUG] 2019/09/27 18:00:56 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 18:00:56 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 18:00:56 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 18:00:56 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 18:00:56 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 18:00:56 watch.go:86: Start server - pid:56794
+2019/09/27 18:00:57 g.go:20: Connet to db...

@@ -108,17 +108,3 @@ a {
     text-overflow: ellipsis;
     white-space: nowrap;
 }
-
-.task-status {
-    width: 10px;
-    height: 10px;
-    margin-right: 4px;
-}
-
-.being {
-    background: red;
-}
-
-.stop {
-    background: #e3e3e3;
-}

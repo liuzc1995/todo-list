@@ -14,9 +14,9 @@ import (
 type home struct{}
 
 //设置路由
-func (h home) registerRoutes() {
+func (p home) registerRoutes() {
 	r := mux.NewRouter()
-	r.HandleFunc("/", indexHandler)
+	r.HandleFunc("/", p.indexHandler)
 	http.Handle("/", r)
 
 	staticHandler()
@@ -32,7 +32,7 @@ func staticHandler() {
 //templates[tpName].Execute 执行渲染模板
 
 //首页
-func indexHandler(w http.ResponseWriter, r *http.Request) {
+func (p home) indexHandler(w http.ResponseWriter, r *http.Request) {
 	tpPath := "content/index.html"
 	vop := vm.IndexViewModelOp{}
 	if r.Method == "GET" {
