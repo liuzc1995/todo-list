@@ -8,12 +8,17 @@
     <title>ToDoList!</title>
     {{end}}
     <link rel="stylesheet" type="text/css" href="/static/css/global.css">
+    <link rel="stylesheet" type="text/css" href="/static/third-party/layui/css/layui.css">
+    <script src="/static/third-party/jquery.min.js"></script>
+    <script src="/static/third-party/layui/layui.js" charset="utf-8"></script>
+
 </head>
 
 <body>
-    <div class="container">
-        {{template "content" .}}
-    </div>
+
+    {{template "content" .}}
+
 </body>
 
 </html>
+<script src="/static/js/global.js"></script>

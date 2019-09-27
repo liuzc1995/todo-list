@@ -5,9 +5,15 @@ mysql:
   password: schoollzc1
   user: root
 server:
-  port: 8888
+  port: 8889
   log: "run/server.log"
   pid: "run/server.pid"
   watch_path:
+    - "../config.yml"
     - "./server.go"
     - "./watch.go"
+    - "./templates"
+    - "./templates/index"
+    - "./vm"
+    - "./controller"
+    - "./model"

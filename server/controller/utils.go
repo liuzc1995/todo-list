@@ -23,8 +23,8 @@ func PopulateTemplates() map[string]*template.Template {
 	} else {
 		//过滤在模板根目录下的html文件
 		for _, fl := range fiss {
-			lenPath := len(fl.Name()) //文件夹名长度
-			if lenPath <= 5 || fl.Name()[lenPath-5:lenPath] != ".html" {
+			//判断是否是文件夹
+			if fl.IsDir() {
 				dir, err := os.Open(basePath + "/" + fl.Name())
 				if err != nil {
 					panic("Failed to open " + fl.Name() + " blocks directory: " + err.Error())

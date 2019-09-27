@@ -1,0 +1,39 @@
+{{define "content"}}
+<div class="container">
+    <div class="add-task-container">
+        <input class="add-content" name="name" type="text" maxlength="20" placeholder="请输入要添加的事务名" />
+        <div class="add-btn" onclick="addTask()">+</div>
+    </div>
+    <div class="task-list-container">
+        <p class="task-list-title">Being</p>
+        <div class="task-list">
+            <ul>
+                {{range .TaskBeing}}
+                <li>
+                    <div class="bd" onclick="doing('{{.ID}}')">
+                        <div class="task-icon"></div>
+                        <div class="task-name">{{.TaskName}}</div>
+                    </div>
+                    <div class="task-time"></div>
+                </li>
+                {{end}}
+            </ul>
+        </div>
+        <p class="task-list-title">Finishing</p>
+        <div class="task-list">
+            <ul>
+                {{range .TaskFinish}}
+                <li>
+                    <div class="bd">
+                        <div class="task-icon"></div>
+                        <div class="task-name">{{.TaskName}}</div>
+                    </div>
+                    <div class="task-time"></div>
+                </li>
+                {{end}}
+            </ul>
+        </div>
+    </div>
+</div>
+
+{{end}}

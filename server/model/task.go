@@ -1,6 +1,8 @@
 package model
 
-import "time"
+import (
+	"time"
+)
 
 type Task struct {
 	ID         int       `gorm:"primary_key;AUTO_INCREMENT"`
@@ -11,9 +13,9 @@ type Task struct {
 }
 
 //通过状态获取事务
-func GetTaskByStatus(status int64) (*Task, error) {
-	var task Task
-	if err := db.Where("status=", status).Find(&task).Error; err != nil {
+func GetTaskByStatus(status int64) (*[]Task, error) {
+	var task []Task
+	if err := db.Where("status=?", status).Order("create_time desc,update_time").Find(&task).Error; err != nil {
 		return nil, err
 	}
 	return &task, nil

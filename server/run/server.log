@@ -2,3 +2,1685 @@
 [DEBUG] 2019/09/26 17:29:36 watch.go:81: OutPut: 
 [DEBUG] 2019/09/26 17:29:36 watch.go:86: Start server - pid:36091
 2019/09/26 17:29:36 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:36:03 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:36:03 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:36:03 watch.go:86: Start server - pid:36359
+2019/09/26 17:36:03 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:36:10 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:36:10 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:36:11 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:36:15 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:36:15 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:36:15 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:36:15 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:36:15 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:36:15 watch.go:86: Start server - pid:36408
+2019/09/26 17:36:15 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:36:19 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:36:19 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:36:20 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:36:23 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:36:23 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:36:23 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:36:23 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:36:23 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:36:23 watch.go:86: Start server - pid:36433
+2019/09/26 17:36:23 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:36:45 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:36:45 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:36:46 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:36:49 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:36:49 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:36:49 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:36:49 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:36:49 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:36:49 watch.go:86: Start server - pid:36486
+2019/09/26 17:36:49 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:39:15 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:39:15 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:39:16 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:39:19 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:39:19 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:39:19 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:39:19 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:39:19 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:39:19 watch.go:86: Start server - pid:36525
+2019/09/26 17:39:19 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:41:10 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:41:10 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:41:12 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:41:12 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:41:15 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:41:15 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:41:15 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:41:15 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:41:15 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:41:15 watch.go:86: Start server - pid:36563
+2019/09/26 17:41:15 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:41:53 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:41:53 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:41:55 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:41:58 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:41:58 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:41:58 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:41:58 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:41:58 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:41:58 watch.go:86: Start server - pid:36600
+2019/09/26 17:41:58 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:42:05 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:42:05 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:42:06 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:42:07 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:42:09 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:42:09 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:42:09 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:42:09 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:42:09 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:42:09 watch.go:86: Start server - pid:36638
+2019/09/26 17:42:09 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:42:35 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:42:35 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:42:36 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:42:40 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:42:40 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:42:40 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:42:40 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:42:40 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:42:40 watch.go:86: Start server - pid:36672
+2019/09/26 17:42:40 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:43:21 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:43:21 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:43:22 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:43:24 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:43:26 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:43:26 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:43:26 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:43:26 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:43:26 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:43:26 watch.go:86: Start server - pid:36713
+2019/09/26 17:43:26 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:43:43 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:43:43 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:43:44 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:43:47 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:43:47 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:43:47 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:43:47 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:43:47 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:43:47 watch.go:86: Start server - pid:36751
+2019/09/26 17:43:47 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:43:52 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:46:05 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:46:05 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 17:46:06 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 17:46:10 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 17:46:10 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 17:46:10 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 17:46:10 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 17:46:10 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 17:46:10 watch.go:86: Start server - pid:36903
+2019/09/26 17:46:10 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 17:46:20 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 18:03:21 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/26 18:03:21 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/26 18:03:22 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/26 18:03:27 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 18:03:27 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 18:03:27 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 18:03:27 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 18:03:27 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 18:03:27 watch.go:86: Start server - pid:37791
+2019/09/26 18:03:27 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 18:03:38 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/26 18:03:38 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/26 18:03:39 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/26 18:03:40 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/26 18:03:40 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/26 18:03:41 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/26 18:03:44 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/26 18:03:44 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/26 18:03:45 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/26 18:03:49 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 18:03:49 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 18:03:49 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 18:03:49 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 18:03:49 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 18:03:49 watch.go:86: Start server - pid:37848
+2019/09/26 18:03:49 g.go:20: Connet to db...
+[DEBUG] 2019/09/26 18:09:39 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 18:09:39 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 18:09:40 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 18:09:43 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 18:09:43 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/26 18:09:44 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/26 18:09:47 watch.go:65: Rebuild server
+[DEBUG] 2019/09/26 18:09:47 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/26 18:09:47 watch.go:67: OutPut: 
+[DEBUG] 2019/09/26 18:09:47 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/26 18:09:47 watch.go:81: OutPut: 
+[DEBUG] 2019/09/26 18:09:47 watch.go:86: Start server - pid:38143
+2019/09/26 18:09:47 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:13:38 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:13:38 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:13:38 watch.go:86: Start server - pid:38417
+2019/09/27 09:13:38 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:14:52 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:15:03 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:15:03 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 09:15:04 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:15:04 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 09:15:05 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:15:07 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:15:07 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:15:07 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:15:07 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:15:07 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:15:08 watch.go:86: Start server - pid:38495
+2019/09/27 09:15:08 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:17:17 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:17:17 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:17:17 watch.go:86: Start server - pid:38653
+2019/09/27 09:17:17 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:17:24 watch.go:128: watch event:"../config.yml": CHMOD
+[DEBUG] 2019/09/27 09:17:24 watch.go:128: watch event:"../config.yml": WRITE
+[DEBUG] 2019/09/27 09:17:28 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:17:28 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:17:28 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:17:28 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:17:28 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:17:28 watch.go:86: Start server - pid:38677
+2019/09/27 09:17:28 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:18:38 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 09:18:49 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 09:18:49 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 09:18:50 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 09:18:54 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:18:54 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:18:54 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:18:54 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:18:54 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:18:54 watch.go:86: Start server - pid:38761
+2019/09/27 09:18:54 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:18:56 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 09:19:22 home.go:43: sss
+[DEBUG] 2019/09/27 09:20:24 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 09:20:24 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 09:20:25 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 09:20:29 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:20:29 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:20:29 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:20:29 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:20:29 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:20:29 watch.go:86: Start server - pid:38915
+2019/09/27 09:20:29 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:21:36 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 09:29:34 watch.go:128: watch event:"controller/utils.go": CHMOD
+[DEBUG] 2019/09/27 09:29:34 watch.go:128: watch event:"controller/utils.go": WRITE
+[DEBUG] 2019/09/27 09:29:36 watch.go:128: watch event:"controller/utils.go": CHMOD
+[DEBUG] 2019/09/27 09:29:40 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:29:40 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:29:40 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:29:40 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:29:40 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:29:40 watch.go:86: Start server - pid:39372
+2019/09/27 09:29:40 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:29:44 watch.go:128: watch event:"controller/utils.go": CHMOD
+[DEBUG] 2019/09/27 09:29:44 watch.go:128: watch event:"controller/utils.go": WRITE
+[DEBUG] 2019/09/27 09:29:45 watch.go:128: watch event:"controller/utils.go": CHMOD
+[DEBUG] 2019/09/27 09:29:48 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:29:48 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:29:48 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:29:48 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:29:48 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:29:48 watch.go:86: Start server - pid:39398
+2019/09/27 09:29:48 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:39:40 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:39:40 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 09:39:44 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:39:44 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:39:44 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:39:44 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:39:44 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:39:44 watch.go:86: Start server - pid:39690
+2019/09/27 09:39:44 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:44:39 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:44:39 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 09:44:43 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:44:43 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:44:43 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:44:43 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:44:43 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:44:43 watch.go:86: Start server - pid:39762
+2019/09/27 09:44:43 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:47:48 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:48:08 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:48:08 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 09:48:13 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:48:13 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:48:13 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:48:13 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:48:13 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:48:13 watch.go:86: Start server - pid:39995
+2019/09/27 09:48:13 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:53:25 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:53:25 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 09:53:28 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:53:28 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 09:53:32 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:53:32 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:53:32 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:53:32 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:53:32 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:53:32 watch.go:86: Start server - pid:40386
+2019/09/27 09:53:32 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:53:57 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:53:57 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 09:53:59 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:53:59 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 09:53:59 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 09:54:03 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:54:03 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:54:03 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:54:03 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:54:03 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:54:03 watch.go:86: Start server - pid:40437
+2019/09/27 09:54:03 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 09:59:31 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 09:59:31 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/27 09:59:36 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 09:59:36 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 09:59:36 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 09:59:36 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 09:59:36 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 09:59:36 watch.go:86: Start server - pid:40532
+2019/09/27 09:59:36 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:11:15 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:11:37 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:11:37 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:11:41 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:11:41 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:11:41 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:11:41 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:11:41 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:11:41 watch.go:86: Start server - pid:40664
+2019/09/27 10:11:41 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:11:46 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:12:24 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:12:24 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:12:28 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:12:28 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:12:28 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:12:28 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:12:28 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:12:28 watch.go:86: Start server - pid:40732
+2019/09/27 10:12:28 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:13:57 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:14:15 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:14:15 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:14:17 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:14:17 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:14:22 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:14:22 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:14:22 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:14:22 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:14:22 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:14:22 watch.go:86: Start server - pid:40875
+2019/09/27 10:14:22 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:29:48 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:29:48 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:29:52 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:29:52 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:29:52 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:29:52 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:29:52 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:29:52 watch.go:86: Start server - pid:41046
+2019/09/27 10:29:52 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:31:12 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:31:12 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:31:17 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:31:17 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:31:17 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:31:17 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:31:17 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:31:17 watch.go:86: Start server - pid:41118
+2019/09/27 10:31:17 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:32:02 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:32:02 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:32:07 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:32:07 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:32:07 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:32:07 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:32:07 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:32:07 watch.go:86: Start server - pid:41170
+2019/09/27 10:32:07 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:33:57 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:34:04 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:34:04 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:34:05 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:34:08 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:34:08 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:34:08 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:34:08 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:34:08 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:34:08 watch.go:86: Start server - pid:41269
+2019/09/27 10:34:08 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:34:09 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:34:09 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:34:14 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:34:14 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:34:14 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:34:14 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:34:14 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:34:14 watch.go:86: Start server - pid:41292
+2019/09/27 10:34:14 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:38:04 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:38:15 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:38:15 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:38:17 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:38:20 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:38:20 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:38:20 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:38:20 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:38:20 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:38:20 watch.go:86: Start server - pid:41391
+2019/09/27 10:38:20 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:40:17 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:40:27 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:40:27 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:40:29 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:40:31 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:40:31 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:40:31 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:40:31 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:40:31 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:40:31 watch.go:86: Start server - pid:41564
+2019/09/27 10:40:31 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:41:35 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:41:35 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:41:40 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:41:40 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:41:40 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:41:40 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:41:40 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:41:40 watch.go:86: Start server - pid:41646
+2019/09/27 10:41:40 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:42:13 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:42:13 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:42:18 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:42:18 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:42:18 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:42:18 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:42:18 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:42:18 watch.go:86: Start server - pid:41672
+2019/09/27 10:42:18 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:42:24 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:42:24 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:42:27 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:42:27 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:42:31 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:42:31 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:42:31 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:42:31 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:42:31 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:42:31 watch.go:86: Start server - pid:41714
+2019/09/27 10:42:31 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:42:42 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:47:24 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:47:24 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:47:28 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:47:28 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:47:28 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:47:28 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:47:28 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:47:28 watch.go:86: Start server - pid:41800
+2019/09/27 10:47:28 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:49:09 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:49:09 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:49:11 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:49:11 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:49:15 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:49:15 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:49:15 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:49:15 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:49:15 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:49:15 watch.go:86: Start server - pid:41842
+2019/09/27 10:49:15 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 10:59:07 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 10:59:07 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 10:59:12 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 10:59:12 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 10:59:12 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 10:59:12 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 10:59:12 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 10:59:12 watch.go:86: Start server - pid:42021
+2019/09/27 10:59:12 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:00:33 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:00:33 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 11:00:38 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 11:00:38 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 11:00:38 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 11:00:38 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:00:38 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:00:38 watch.go:86: Start server - pid:42079
+2019/09/27 11:00:38 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:00:39 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:00:39 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 11:00:43 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 11:00:43 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 11:00:43 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 11:00:43 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:00:43 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:00:43 watch.go:86: Start server - pid:42101
+2019/09/27 11:00:43 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:02:49 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:02:49 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 11:02:49 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:02:50 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:02:53 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 11:02:53 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 11:02:53 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 11:02:53 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:02:53 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:02:53 watch.go:86: Start server - pid:42220
+2019/09/27 11:02:53 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:09:22 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:09:22 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:09:22 watch.go:86: Start server - pid:42509
+2019/09/27 11:09:22 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:35:39 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:35:39 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:35:39 watch.go:86: Start server - pid:43806
+2019/09/27 11:35:39 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:36:03 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:36:03 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:36:03 watch.go:86: Start server - pid:43881
+2019/09/27 11:36:03 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:40:53 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:41:02 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:41:02 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 11:41:03 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:41:03 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:41:06 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 11:41:06 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 11:41:06 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 11:41:06 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:41:06 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:41:06 watch.go:86: Start server - pid:44148
+2019/09/27 11:41:06 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:42:48 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:42:48 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 11:42:49 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:42:52 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 11:42:52 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 11:42:52 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 11:42:52 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:42:52 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:42:52 watch.go:86: Start server - pid:44200
+2019/09/27 11:42:52 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:47:18 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:51:34 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:51:34 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 11:51:35 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:51:38 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 11:51:38 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 11:51:38 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 11:51:38 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:51:38 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:51:38 watch.go:86: Start server - pid:44374
+2019/09/27 11:51:38 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:53:02 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:53:02 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 11:53:03 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:53:05 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 11:53:07 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 11:53:07 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 11:53:07 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 11:53:07 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 11:53:07 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 11:53:07 watch.go:86: Start server - pid:44448
+2019/09/27 11:53:07 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 11:59:46 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:00:15 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:00:15 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 12:00:17 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:00:20 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 12:00:20 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 12:00:20 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 12:00:20 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 12:00:20 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 12:00:20 watch.go:86: Start server - pid:44756
+2019/09/27 12:00:20 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 12:03:22 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:03:22 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 12:03:23 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:03:27 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 12:03:27 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 12:03:27 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 12:03:27 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 12:03:27 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 12:03:27 watch.go:86: Start server - pid:44902
+2019/09/27 12:03:27 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 12:03:28 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:03:28 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 12:03:28 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:03:29 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:03:33 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 12:03:33 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 12:03:33 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 12:03:33 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 12:03:33 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 12:03:33 watch.go:86: Start server - pid:44931
+2019/09/27 12:03:33 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 12:04:29 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:04:29 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 12:04:30 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:04:30 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:04:30 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 12:04:31 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:04:33 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 12:04:33 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 12:04:33 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 12:04:33 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 12:04:33 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 12:04:33 watch.go:86: Start server - pid:45025
+2019/09/27 12:04:33 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 12:04:57 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:04:57 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 12:04:58 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:05:01 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 12:05:01 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 12:05:01 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 12:05:01 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 12:05:01 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 12:05:01 watch.go:86: Start server - pid:45065
+2019/09/27 12:05:01 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 12:05:06 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:05:06 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 12:05:08 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:05:11 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 12:05:11 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 12:05:11 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 12:05:11 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 12:05:11 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 12:05:11 watch.go:86: Start server - pid:45101
+2019/09/27 12:05:11 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 12:05:35 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:05:35 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 12:05:37 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 12:05:40 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 12:05:40 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 12:05:40 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 12:05:40 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 12:05:40 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 12:05:40 watch.go:86: Start server - pid:45144
+2019/09/27 12:05:40 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:12:14 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 14:13:38 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 14:13:38 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 14:13:43 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:13:43 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:13:43 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:13:43 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:13:43 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:13:43 watch.go:86: Start server - pid:45388
+2019/09/27 14:13:43 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:15:29 watch.go:128: watch event:"../config.yml": CHMOD
+[DEBUG] 2019/09/27 14:15:38 watch.go:128: watch event:"../config.yml": CHMOD
+[DEBUG] 2019/09/27 14:15:38 watch.go:128: watch event:"../config.yml": WRITE
+[DEBUG] 2019/09/27 14:15:44 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:15:44 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:15:44 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:15:44 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:15:44 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:15:44 watch.go:86: Start server - pid:45607
+2019/09/27 14:15:44 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:16:06 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:16:06 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:16:06 watch.go:86: Start server - pid:45674
+2019/09/27 14:16:06 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:16:17 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:16:17 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:16:18 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:16:22 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:16:22 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:16:22 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:16:22 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:16:22 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:16:22 watch.go:86: Start server - pid:45708
+2019/09/27 14:16:22 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:16:24 index.go:25: <nil>
+[DEBUG] 2019/09/27 14:16:39 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:17:58 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:17:58 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:17:59 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:17:59 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:17:59 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:18:01 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:18:05 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:18:05 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:18:05 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:18:05 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:18:05 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:18:05 watch.go:86: Start server - pid:45857
+2019/09/27 14:18:05 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:18:07 index.go:21: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+[DEBUG] 2019/09/27 14:18:07 index.go:28: <nil>
+[DEBUG] 2019/09/27 14:18:25 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:19:39 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:19:39 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:19:40 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:19:44 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:19:44 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:19:44 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:19:44 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:19:44 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:19:44 watch.go:86: Start server - pid:45922
+2019/09/27 14:19:44 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:19:45 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:20:43 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:20:43 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:20:45 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:20:48 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:20:48 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 14:20:48 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/model
+model/task.go:21:3: gorm.DB.Error is a field, not a method
+model/task.go:21:3: cannot use err (type *gorm.DB) as type error in return argument:
+	*gorm.DB does not implement error (missing Error method)
+[DEBUG] 2019/09/27 14:21:00 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:21:22 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:21:22 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:21:23 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:21:26 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:21:26 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:21:26 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:21:26 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:21:26 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:21:26 watch.go:86: Start server - pid:46005
+2019/09/27 14:21:26 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:22:51 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:22:51 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:22:53 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:22:57 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:22:57 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:22:57 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:22:57 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:22:57 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:22:57 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:22:57 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:22:57 watch.go:86: Start server - pid:46057
+2019/09/27 14:22:57 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:22:58 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:23:01 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:23:01 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:23:01 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:23:01 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:23:01 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:23:01 watch.go:86: Start server - pid:46076
+2019/09/27 14:23:01 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:23:04 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:23:04 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:23:05 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:23:10 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:23:10 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:23:10 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:23:10 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:23:10 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:23:10 watch.go:86: Start server - pid:46132
+2019/09/27 14:23:10 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:23:13 index.go:28: &{5  0 2019-09-27 09:50:30 +0000 UTC 2019-09-27 09:50:30 +0000 UTC}
+[DEBUG] 2019/09/27 14:24:34 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 14:27:32 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:27:32 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:27:34 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:27:34 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:27:38 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:27:38 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:27:38 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:27:38 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:27:38 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:27:38 watch.go:86: Start server - pid:46275
+2019/09/27 14:27:38 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:30:01 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:30:01 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:30:03 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:30:06 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:30:06 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:30:06 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:30:06 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:30:06 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:30:06 watch.go:86: Start server - pid:46312
+2019/09/27 14:30:06 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:30:42 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:30:56 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:30:56 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:30:58 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:31:02 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:31:02 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:31:02 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:31:02 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:31:02 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:31:02 watch.go:86: Start server - pid:46357
+2019/09/27 14:31:02 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:31:35 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:31:35 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:31:36 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:31:41 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:31:41 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:31:41 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:31:41 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:31:41 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:31:41 watch.go:86: Start server - pid:46394
+2019/09/27 14:31:41 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:32:52 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:32:52 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:32:54 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:32:58 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:32:58 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:32:58 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:32:58 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:32:58 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:32:58 watch.go:86: Start server - pid:46452
+2019/09/27 14:32:58 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:33:00 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:33:00 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:33:01 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:33:05 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:33:05 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:33:05 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:33:05 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:33:05 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:33:05 watch.go:86: Start server - pid:46492
+2019/09/27 14:33:05 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:33:14 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:33:15 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:33:15 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:33:16 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:33:17 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:33:19 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:33:19 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:33:19 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:33:19 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:33:19 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:33:19 watch.go:86: Start server - pid:46538
+2019/09/27 14:33:19 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:33:44 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:33:44 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:33:46 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:33:48 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:33:48 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:33:48 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:33:48 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:33:48 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:33:48 watch.go:86: Start server - pid:46580
+2019/09/27 14:33:48 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:33:50 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 14:34:02 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 14:34:02 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 14:34:06 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:34:06 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:34:06 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:34:06 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:34:06 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:34:06 watch.go:86: Start server - pid:46617
+2019/09/27 14:34:06 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:34:07 index.go:21: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc create_time,update_time' at line 1
+[DEBUG] 2019/09/27 14:34:07 index.go:25: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc create_time,update_time' at line 1
+[DEBUG] 2019/09/27 14:34:54 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:34:54 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:34:56 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:34:56 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:34:56 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 14:34:57 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 14:35:00 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:35:00 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:35:00 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:35:00 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:35:00 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:35:00 watch.go:86: Start server - pid:46665
+2019/09/27 14:35:00 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:35:01 index.go:25: record not found
+[DEBUG] 2019/09/27 14:35:15 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:35:26 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:35:26 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:35:27 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:35:32 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:35:32 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:35:32 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:35:32 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:35:32 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:35:32 watch.go:86: Start server - pid:46736
+2019/09/27 14:35:32 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:35:34 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:36:04 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 14:36:11 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 14:36:11 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 14:36:16 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:36:16 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:36:16 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:36:16 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:36:16 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:36:16 watch.go:86: Start server - pid:46786
+2019/09/27 14:36:16 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:37:08 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 14:37:08 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 14:37:09 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 14:37:12 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:37:12 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:37:12 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:37:12 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:37:12 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:37:12 watch.go:86: Start server - pid:46994
+2019/09/27 14:37:12 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:37:35 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:37:45 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:37:45 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:37:45 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:37:47 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:37:50 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:37:50 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:37:50 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:37:50 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:37:50 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:37:50 watch.go:86: Start server - pid:47058
+2019/09/27 14:37:50 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:37:56 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:38:00 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:38:00 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:38:02 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:38:06 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:38:06 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:38:06 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:38:06 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:38:06 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:38:06 watch.go:86: Start server - pid:47106
+2019/09/27 14:38:06 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:38:27 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:38:27 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:38:28 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:38:33 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:38:33 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:38:33 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:38:33 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:38:33 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:38:33 watch.go:86: Start server - pid:47152
+2019/09/27 14:38:33 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:38:36 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:38:36 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:38:37 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:38:41 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:38:41 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:38:41 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:38:41 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:38:41 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:38:41 watch.go:86: Start server - pid:47196
+2019/09/27 14:38:41 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:38:43 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 14:38:56 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 14:39:07 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 14:46:25 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:46:25 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:46:27 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:46:32 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:46:32 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:46:32 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:46:32 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:46:32 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:46:32 watch.go:86: Start server - pid:47560
+2019/09/27 14:46:32 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:47:41 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:48:10 watch.go:128: watch event:"controller/task.go": CREATE
+[DEBUG] 2019/09/27 14:48:15 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:48:15 watch.go:66: Error: exit status 1
+[DEBUG] 2019/09/27 14:48:15 watch.go:67: OutPut: server.go:12:2: 
+controller/task.go:1:1: expected 'package', found 'EOF'
+[DEBUG] 2019/09/27 14:52:57 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 14:52:57 watch.go:128: watch event:"controller/task.go": WRITE
+[DEBUG] 2019/09/27 14:52:59 watch.go:128: watch event:"controller/task.go": CHMOD
+[DEBUG] 2019/09/27 14:53:03 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:53:03 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:53:03 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:53:03 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:53:03 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:53:03 watch.go:86: Start server - pid:48415
+2019/09/27 14:53:03 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:53:10 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:54:23 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:54:23 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 14:54:25 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:54:27 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:54:27 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 14:54:27 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/home.go:43:3: errs declared and not used
+[DEBUG] 2019/09/27 14:55:19 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:55:19 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 14:55:19 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:55:21 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:55:25 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:55:25 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 14:55:25 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 14:55:25 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:55:25 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:55:25 watch.go:86: Start server - pid:48527
+2019/09/27 14:55:25 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:56:30 watch.go:128: watch event:"model/task.go": RENAME
+[DEBUG] 2019/09/27 14:56:35 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:56:35 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 14:56:35 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/vm
+vm/index.go:11:14: undefined: model.Task
+vm/index.go:12:14: undefined: model.Task
+[DEBUG] 2019/09/27 14:56:37 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:56:37 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 14:56:39 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 14:56:41 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:56:41 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 14:56:42 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:56:45 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:56:45 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 14:56:45 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/vm
+vm/index.go:11:14: undefined: model.Task
+vm/index.go:12:14: undefined: model.Task
+[DEBUG] 2019/09/27 14:56:56 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:57:18 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:57:18 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 14:57:19 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 14:57:22 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 14:57:22 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 14:57:22 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/vm
+vm/index.go:11:14: undefined: model.Task
+vm/index.go:12:14: undefined: model.Task
+[DEBUG] 2019/09/27 14:59:14 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:59:14 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:59:14 watch.go:86: Start server - pid:48862
+2019/09/27 14:59:14 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 14:59:22 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 14:59:22 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 14:59:22 watch.go:86: Start server - pid:48878
+2019/09/27 14:59:22 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:00:12 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:00:12 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 15:00:14 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:00:17 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:00:17 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:00:17 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:00:17 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:00:17 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:00:17 watch.go:86: Start server - pid:48933
+2019/09/27 15:00:17 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:00:31 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:00:31 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:00:31 watch.go:86: Start server - pid:48947
+2019/09/27 15:00:31 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:01:38 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:01:38 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:01:38 watch.go:86: Start server - pid:48998
+2019/09/27 15:01:38 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:01:40 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:46 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:46 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:47 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:47 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:47 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:47 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:47 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:47 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:47 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:47 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:01:55 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:02:19 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:02:20 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:02:20 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:02:20 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:02:21 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:02:35 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:02:35 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:02:56 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:02:56 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:02:56 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:12:00 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:12:00 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 15:12:02 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:12:05 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:12:05 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 15:12:05 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/vm
+vm/index.go:21:14: cannot use tb (type *model.Task) as type []model.Task in assignment
+vm/index.go:22:15: cannot use tf (type *model.Task) as type []model.Task in assignment
+[DEBUG] 2019/09/27 15:12:35 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 15:12:35 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 15:12:38 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 15:12:40 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:12:40 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 15:12:40 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/vm
+vm/index.go:21:14: cannot use tb (type *model.Task) as type []model.Task in assignment
+vm/index.go:22:15: cannot use tf (type *model.Task) as type []model.Task in assignment
+[DEBUG] 2019/09/27 15:12:41 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:12:41 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 15:12:43 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:12:45 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:12:45 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 15:12:47 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:12:50 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:12:50 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:12:50 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:12:50 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:12:50 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:12:50 watch.go:86: Start server - pid:49314
+2019/09/27 15:12:50 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:13:09 index.go:23: &{2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}
+[DEBUG] 2019/09/27 15:17:14 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:17:14 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 15:17:16 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:17:19 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:17:19 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 15:17:19 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/vm
+vm/index.go:21:14: cannot use tb (type *model.Task) as type []model.Task in assignment
+vm/index.go:22:15: cannot use tf (type *model.Task) as type []model.Task in assignment
+[DEBUG] 2019/09/27 15:18:23 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 15:18:23 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 15:18:24 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 15:18:24 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 15:18:24 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 15:18:24 watch.go:128: watch event:"model/task.go": WRITE
+[DEBUG] 2019/09/27 15:18:25 watch.go:128: watch event:"model/task.go": CHMOD
+[DEBUG] 2019/09/27 15:18:28 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:18:28 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 15:18:28 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/vm
+vm/index.go:21:14: cannot use tb (type *[]model.Task) as type []model.Task in assignment
+vm/index.go:22:15: cannot use tf (type *[]model.Task) as type []model.Task in assignment
+[DEBUG] 2019/09/27 15:18:35 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:18:35 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 15:18:37 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:18:41 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:18:41 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:18:41 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:18:41 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:18:41 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:18:41 watch.go:86: Start server - pid:49579
+2019/09/27 15:18:41 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:18:46 index.go:23: &[{6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:19:29 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:19:29 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 15:19:30 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:19:31 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:19:33 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:19:33 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:19:33 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:19:33 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:19:33 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:19:33 watch.go:86: Start server - pid:49630
+2019/09/27 15:19:33 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:19:37 index.go:23: &[{6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:20:11 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:20:11 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 15:20:13 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:20:16 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:20:16 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:20:16 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:20:16 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:20:16 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:20:16 watch.go:86: Start server - pid:49678
+2019/09/27 15:20:16 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:20:22 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:20:22 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 15:20:24 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:20:27 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:20:27 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:20:27 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:20:27 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:20:27 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:20:27 watch.go:86: Start server - pid:49708
+2019/09/27 15:20:27 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:20:34 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:20:34 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 15:20:36 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:20:39 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:20:39 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:20:39 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:20:39 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:20:39 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:20:39 watch.go:86: Start server - pid:49747
+2019/09/27 15:20:39 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:20:42 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:20:42 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 15:20:44 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:20:46 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:20:46 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:20:46 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:20:46 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:20:46 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:20:46 watch.go:86: Start server - pid:49784
+2019/09/27 15:20:46 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:20:54 index.go:23: &[{6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:21:14 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:21:14 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 15:21:15 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:21:18 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:21:18 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:21:18 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:21:18 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:21:18 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:21:18 watch.go:86: Start server - pid:49847
+2019/09/27 15:21:19 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:21:19 index.go:23: &[{6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:21:23 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:21:23 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 15:21:24 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:21:27 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:21:27 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 15:21:28 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:21:32 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:21:32 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:21:32 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:21:32 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:21:32 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:21:32 watch.go:86: Start server - pid:49914
+2019/09/27 15:21:32 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:22:43 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:23:12 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:23:12 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:23:13 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:23:16 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:23:16 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:23:16 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:23:16 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:23:16 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:23:16 watch.go:86: Start server - pid:50012
+2019/09/27 15:23:17 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:23:22 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:25:41 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:25:41 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:25:42 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:25:47 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:25:47 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:25:47 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:25:47 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:25:47 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:25:47 watch.go:86: Start server - pid:50175
+2019/09/27 15:25:47 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:25:49 home.go:48: 1
+[DEBUG] 2019/09/27 15:26:32 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:26:32 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:26:33 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:26:37 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:26:37 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:26:37 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:26:37 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:26:37 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:26:37 watch.go:86: Start server - pid:50231
+2019/09/27 15:26:37 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:26:52 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:27:05 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:27:05 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:27:06 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:27:10 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:27:11 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:27:11 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:27:11 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:27:11 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:27:11 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:27:11 watch.go:86: Start server - pid:50313
+2019/09/27 15:27:11 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:27:12 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:27:12 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:27:13 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:27:16 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:27:16 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:27:16 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:27:16 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:27:16 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:27:16 watch.go:86: Start server - pid:50336
+2019/09/27 15:27:16 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:27:50 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:28:28 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:28:28 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:28:29 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:28:33 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:28:33 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:28:33 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:28:33 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:28:33 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:28:33 watch.go:86: Start server - pid:50463
+2019/09/27 15:28:33 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:28:49 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:28:49 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:28:51 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:28:55 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:28:55 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:28:55 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:28:55 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:28:55 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:28:55 watch.go:86: Start server - pid:50501
+2019/09/27 15:28:55 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:30:29 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:30:29 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:30:30 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:30:31 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:30:33 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:30:33 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:30:33 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:30:33 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:30:33 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:30:33 watch.go:86: Start server - pid:50546
+2019/09/27 15:30:33 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:30:43 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:30:43 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:30:44 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:30:49 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:30:49 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:30:49 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:30:49 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:30:49 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:30:49 watch.go:86: Start server - pid:50591
+2019/09/27 15:30:49 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:31:34 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:31:37 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:31:37 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:31:39 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:31:42 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:31:42 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:31:42 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:31:42 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:31:42 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:31:42 watch.go:86: Start server - pid:50636
+2019/09/27 15:31:42 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:32:32 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:32:33 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:32:33 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:32:34 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:32:35 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:32:38 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:32:38 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:32:38 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:32:38 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:32:38 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:32:38 watch.go:86: Start server - pid:50687
+2019/09/27 15:32:38 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:34:45 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:34:45 watch.go:128: watch event:"templates/index/index.html": WRITE
+[DEBUG] 2019/09/27 15:34:46 watch.go:128: watch event:"templates/index/index.html": CHMOD
+[DEBUG] 2019/09/27 15:34:47 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 15:34:47 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/27 15:34:48 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 15:34:50 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 15:34:50 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/27 15:34:51 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 15:34:55 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:34:55 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:34:55 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:34:55 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:34:55 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:34:55 watch.go:86: Start server - pid:50825
+2019/09/27 15:34:55 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:43:07 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:43:07 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:43:07 watch.go:86: Start server - pid:51113
+2019/09/27 15:43:07 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:49:22 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:49:22 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:49:23 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:49:28 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:49:28 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:49:28 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:49:28 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:49:28 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:49:28 watch.go:86: Start server - pid:51262
+2019/09/27 15:49:28 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:49:28 home.go:38: 1
+[DEBUG] 2019/09/27 15:49:35 home.go:38: 1
+[DEBUG] 2019/09/27 15:49:38 home.go:38: 1
+[DEBUG] 2019/09/27 15:49:49 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:51:48 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:51:48 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 15:51:50 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:51:50 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 15:51:52 home.go:38: 1
+[DEBUG] 2019/09/27 15:51:54 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:51:54 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:51:54 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:51:54 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:51:54 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:51:54 watch.go:86: Start server - pid:51456
+2019/09/27 15:51:54 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:51:57 index.go:23: [{49 gg 0 2019-09-27 15:49:38 +0000 UTC 2019-09-27 15:49:38 +0000 UTC} {48 sssd 0 2019-09-27 15:44:08 +0000 UTC 2019-09-27 15:44:08 +0000 UTC} {47 sss 0 2019-09-27 15:44:01 +0000 UTC 2019-09-27 15:44:01 +0000 UTC} {46 ff 0 2019-09-27 15:35:10 +0000 UTC 2019-09-27 15:35:10 +0000 UTC} {45 fff 0 2019-09-27 15:35:02 +0000 UTC 2019-09-27 15:35:02 +0000 UTC} {44 ff 0 2019-09-27 15:32:18 +0000 UTC 2019-09-27 15:32:18 +0000 UTC} {43 sss 0 2019-09-27 15:32:05 +0000 UTC 2019-09-27 15:32:05 +0000 UTC} {14 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:25 +0000 UTC 2019-09-27 15:22:25 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:51:57 home.go:38: 1
+[DEBUG] 2019/09/27 15:52:10 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:52:10 home.go:38: 1
+[DEBUG] 2019/09/27 15:52:30 index.go:23: [{50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:52:30 home.go:38: 1
+[DEBUG] 2019/09/27 15:55:09 watch.go:128: watch event:"controller/utils.go": CHMOD
+[DEBUG] 2019/09/27 15:55:09 watch.go:128: watch event:"controller/utils.go": WRITE
+[DEBUG] 2019/09/27 15:55:10 watch.go:128: watch event:"controller/utils.go": CHMOD
+[DEBUG] 2019/09/27 15:55:15 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:55:15 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:55:15 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:55:15 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:55:15 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:55:15 watch.go:86: Start server - pid:51586
+[DEBUG] 2019/09/27 15:55:18 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:55:18 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:55:20 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:55:23 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:55:23 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:55:23 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:55:23 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:55:23 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:55:23 watch.go:86: Start server - pid:51618
+[DEBUG] 2019/09/27 15:55:29 watch.go:128: watch event:"templates/content": CREATE
+[DEBUG] 2019/09/27 15:55:29 watch.go:128: watch event:"templates/index": REMOVE|RENAME
+[DEBUG] 2019/09/27 15:55:33 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:55:33 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:55:33 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:55:33 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:55:33 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:55:33 watch.go:86: Start server - pid:51639
+2019/09/27 15:55:33 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:55:36 index.go:23: [{50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:55:37 index.go:23: [{50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:55:47 index.go:23: [{51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[WARN] 2019/09/27 15:56:04 watch.go:117: watch dir:./templates/index error:lstat templates/index: no such file or directory
+[DEBUG] 2019/09/27 15:56:04 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:56:04 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:56:04 watch.go:86: Start server - pid:51668
+2019/09/27 15:56:04 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:56:09 index.go:23: [{51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:13 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:36 watch.go:128: watch event:"controller/utils.go": CHMOD
+[DEBUG] 2019/09/27 15:56:36 watch.go:128: watch event:"controller/utils.go": WRITE
+[DEBUG] 2019/09/27 15:56:37 watch.go:128: watch event:"controller/utils.go": CHMOD
+[DEBUG] 2019/09/27 15:56:42 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:56:42 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:56:42 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:56:42 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:56:42 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:56:42 watch.go:86: Start server - pid:51734
+2019/09/27 15:56:42 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:56:44 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:44 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:44 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:44 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:44 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:44 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:49 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:49 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:49 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:56:50 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:56:50 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:56:51 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:56:56 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:56:56 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:56:56 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:56:56 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:56:56 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:56:56 watch.go:86: Start server - pid:51771
+2019/09/27 15:56:56 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:56:57 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:57:31 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:05 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:42 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:58:42 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:58:43 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:58:44 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:45 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:46 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:47 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:48 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:48 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:48 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:48 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:58:48 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:58:48 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:58:48 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:58:48 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:58:48 watch.go:86: Start server - pid:51891
+2019/09/27 15:58:49 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:58:49 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:55 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:57 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:58:57 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:59:01 index.go:23: [{52 gggh 0 2019-09-27 15:56:13 +0000 UTC 2019-09-27 15:56:13 +0000 UTC} {51 ggg 0 2019-09-27 15:55:47 +0000 UTC 2019-09-27 15:55:47 +0000 UTC} {50 ggg 0 2019-09-27 15:52:30 +0000 UTC 2019-09-27 15:52:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 15:59:06 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:59:19 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:59:19 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:59:21 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:59:25 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:59:25 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:59:25 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:59:25 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:59:25 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:59:25 watch.go:86: Start server - pid:51945
+2019/09/27 15:59:25 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:59:36 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:59:36 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:59:38 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:59:41 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:59:41 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 15:59:41 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:59:41 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:59:41 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:59:41 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:59:41 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:59:41 watch.go:86: Start server - pid:51990
+2019/09/27 15:59:41 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 15:59:41 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 15:59:45 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 15:59:45 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 15:59:45 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 15:59:45 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 15:59:45 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 15:59:45 watch.go:86: Start server - pid:52011
+2019/09/27 15:59:45 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:01:12 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:12 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:13 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:13 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:13 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:13 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:14 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:14 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:15 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:16 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[WARN] 2019/09/27 16:01:25 watch.go:117: watch dir:./templates/index error:lstat templates/index: no such file or directory
+[DEBUG] 2019/09/27 16:01:25 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:01:25 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:01:25 watch.go:86: Start server - pid:52130
+2019/09/27 16:01:25 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:01:27 index.go:23: [{13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:30 index.go:23: [{53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:01:54 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:10 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:10 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:11 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:12 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:12 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:12 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:13 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:14 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:15 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:15 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:15 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[WARN] 2019/09/27 16:03:21 watch.go:117: watch dir:./templates/index error:lstat templates/index: no such file or directory
+[DEBUG] 2019/09/27 16:03:21 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:03:21 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:03:21 watch.go:86: Start server - pid:52185
+2019/09/27 16:03:21 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:03:24 index.go:23: [{54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:27 index.go:23: [{55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:03:33 index.go:23: [{55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:04:25 index.go:23: [{55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:04:26 index.go:23: [{55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[WARN] 2019/09/27 16:04:33 watch.go:117: watch dir:./templates/index error:lstat templates/index: no such file or directory
+[DEBUG] 2019/09/27 16:04:33 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:04:33 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:04:33 watch.go:86: Start server - pid:52231
+2019/09/27 16:04:33 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:04:34 index.go:23: [{55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:04:37 index.go:23: [{56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:04:39 index.go:23: [{56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[WARN] 2019/09/27 16:04:59 watch.go:117: watch dir:./templates/index error:lstat templates/index: no such file or directory
+[DEBUG] 2019/09/27 16:04:59 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:04:59 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:04:59 watch.go:86: Start server - pid:52276
+2019/09/27 16:04:59 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:05:01 index.go:23: [{56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:05:03 index.go:23: [{57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[WARN] 2019/09/27 16:05:26 watch.go:117: watch dir:./templates/index error:lstat templates/index: no such file or directory
+[DEBUG] 2019/09/27 16:05:26 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:05:26 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:05:26 watch.go:86: Start server - pid:52350
+2019/09/27 16:05:26 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:05:27 index.go:23: [{57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:05:28 index.go:23: [{57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:05:31 index.go:23: [{58 nnm 0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {59  0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:05:31 index.go:23: [{58 nnm 0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {59  0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:19:23 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:19:23 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 16:19:24 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:19:25 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:19:25 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 16:19:26 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:19:26 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:19:28 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:19:28 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 16:19:28 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/home.go:44:16: syntax error: unexpected newline, expecting comma or }
+[DEBUG] 2019/09/27 16:20:04 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:20:04 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 16:20:05 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:20:06 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:20:06 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 16:20:08 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:20:08 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:20:08 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 16:20:11 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:20:13 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:20:13 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 16:20:13 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/home.go:43:3: m declared and not used
+[DEBUG] 2019/09/27 16:20:45 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:22:29 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:22:29 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 16:22:31 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:22:35 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:22:35 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 16:22:35 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 16:22:35 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:22:35 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:22:35 watch.go:86: Start server - pid:52982
+2019/09/27 16:22:36 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:22:46 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:22:46 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 16:22:47 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:22:48 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:22:51 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:22:51 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 16:22:51 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/home.go:56:3: ret declared and not used
+[DEBUG] 2019/09/27 16:23:01 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:23:01 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 16:23:02 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:23:03 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:23:06 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:23:06 watch.go:66: Error: exit status 2
+[DEBUG] 2019/09/27 16:23:06 watch.go:67: OutPut: # github.com/542213314/frame-sample/server/controller
+controller/home.go:57:10: cannot use ret (type []byte) as type io.Writer in argument to r.Write:
+	[]byte does not implement io.Writer (missing Write method)
+[DEBUG] 2019/09/27 16:23:19 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:23:19 watch.go:128: watch event:"controller/home.go": WRITE
+[DEBUG] 2019/09/27 16:23:20 watch.go:128: watch event:"controller/home.go": CHMOD
+[DEBUG] 2019/09/27 16:23:25 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:23:25 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 16:23:25 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 16:23:25 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:23:25 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:23:25 watch.go:86: Start server - pid:53089
+2019/09/27 16:23:25 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:24:01 index.go:23: [{58 nnm 0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {59  0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:24:02 index.go:23: [{58 nnm 0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {59  0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[WARN] 2019/09/27 16:24:07 watch.go:117: watch dir:./templates/index error:lstat templates/index: no such file or directory
+[DEBUG] 2019/09/27 16:24:07 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:24:07 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:24:07 watch.go:86: Start server - pid:53145
+2019/09/27 16:24:07 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:24:10 index.go:23: [{58 nnm 0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {59  0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:26:01 index.go:23: [{60 ggghff 0 2019-09-27 16:24:14 +0000 UTC 2019-09-27 16:24:14 +0000 UTC} {58 nnm 0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {59  0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:26:01 index.go:23: [{60 ggghff 0 2019-09-27 16:24:14 +0000 UTC 2019-09-27 16:24:14 +0000 UTC} {58 nnm 0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {59  0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:26:01 index.go:23: [{60 ggghff 0 2019-09-27 16:24:14 +0000 UTC 2019-09-27 16:24:14 +0000 UTC} {58 nnm 0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {59  0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:26:02 index.go:23: [{60 ggghff 0 2019-09-27 16:24:14 +0000 UTC 2019-09-27 16:24:14 +0000 UTC} {58 nnm 0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {59  0 2019-09-27 16:05:31 +0000 UTC 2019-09-27 16:05:31 +0000 UTC} {57 nnn 0 2019-09-27 16:05:03 +0000 UTC 2019-09-27 16:05:03 +0000 UTC} {56 hjjj 0 2019-09-27 16:04:37 +0000 UTC 2019-09-27 16:04:37 +0000 UTC} {55 gggh 0 2019-09-27 16:03:27 +0000 UTC 2019-09-27 16:03:27 +0000 UTC} {54 gggh 0 2019-09-27 16:01:54 +0000 UTC 2019-09-27 16:01:54 +0000 UTC} {53 ggg 0 2019-09-27 16:01:30 +0000 UTC 2019-09-27 16:01:30 +0000 UTC} {13 吃饭，睡觉，打豆豆 0 2019-09-27 15:22:21 +0000 UTC 2019-09-27 15:22:21 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:27:01 index.go:23: [{6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:27:37 index.go:23: [{6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:27:58 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:32:25 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:32:25 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/27 16:32:26 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:32:30 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:32:30 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 16:32:30 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 16:32:30 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:32:30 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:32:30 watch.go:86: Start server - pid:53452
+2019/09/27 16:32:30 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:33:03 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:33:04 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:33:04 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:33:04 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:33:04 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:33:05 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:33:05 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:33:06 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:33:06 index.go:23: [{62 fgggghh 0 2019-09-27 16:27:54 +0000 UTC 2019-09-27 16:27:54 +0000 UTC} {6 dddd 0 2019-09-27 14:38:56 +0000 UTC 2019-09-27 14:38:56 +0000 UTC} {2 sss 0 2019-09-27 09:19:22 +0000 UTC 2019-09-27 09:19:22 +0000 UTC}]
+[DEBUG] 2019/09/27 16:33:08 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 16:33:11 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 16:33:11 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 16:33:12 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 16:33:17 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:33:17 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 16:33:17 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 16:33:17 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:33:17 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:33:17 watch.go:86: Start server - pid:53552
+2019/09/27 16:33:17 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:35:45 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:35:45 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/27 16:35:45 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:35:45 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/27 16:35:45 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:35:45 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/27 16:35:46 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:35:49 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:35:49 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 16:35:49 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 16:35:49 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:35:49 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:35:49 watch.go:86: Start server - pid:53704
+2019/09/27 16:35:50 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:35:57 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:35:57 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/27 16:35:59 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:36:02 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:36:02 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 16:36:02 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 16:36:02 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:36:02 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:36:02 watch.go:86: Start server - pid:53740
+2019/09/27 16:36:02 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:37:31 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:37:31 watch.go:128: watch event:"templates/_base.html": WRITE
+[DEBUG] 2019/09/27 16:37:32 watch.go:128: watch event:"templates/_base.html": CHMOD
+[DEBUG] 2019/09/27 16:37:36 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 16:37:36 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 16:37:36 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 16:37:36 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 16:37:36 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 16:37:36 watch.go:86: Start server - pid:53811
+2019/09/27 16:37:36 g.go:20: Connet to db...
+[DEBUG] 2019/09/27 16:47:57 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 17:19:24 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 17:19:24 watch.go:128: watch event:"vm/index.go": WRITE
+[DEBUG] 2019/09/27 17:19:25 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 17:19:26 watch.go:128: watch event:"vm/index.go": CHMOD
+[DEBUG] 2019/09/27 17:19:30 watch.go:65: Rebuild server
+[DEBUG] 2019/09/27 17:19:30 watch.go:66: Error: <nil>
+[DEBUG] 2019/09/27 17:19:30 watch.go:67: OutPut: 
+[DEBUG] 2019/09/27 17:19:30 watch.go:80: Error: <nil>
+[DEBUG] 2019/09/27 17:19:30 watch.go:81: OutPut: 
+[DEBUG] 2019/09/27 17:19:30 watch.go:86: Start server - pid:54302
+2019/09/27 17:19:30 g.go:20: Connet to db...
