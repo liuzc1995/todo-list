@@ -18,17 +18,46 @@ a {
     text-decoration: none;
 }
 
+@media screen and (max-width: 620px) {
+    .task-list-container {
+        width: 100% !important;
+    }
+
+    .bd {
+        margin-left: 10px;
+        margin-right: 0 !important;
+    }
+
+    .task-list-title span {
+        margin-left: 10px;
+    }
+
+    .num {
+        margin-right: 10px;
+    }
+
+    .task-name {
+        width: 160px !important;
+    }
+
+    .ed {
+        margin-right: 10px;
+    }
+}
 
 .container {
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
-    height: 100%;
     background: #FFF;
 }
 
 .add-task-container {
+    position: fixed;
+    top: 0;
+    z-index: 10;
     width: 100%;
     height: 50px;
     background: #F1EEF2;
@@ -66,13 +95,36 @@ a {
 }
 
 .task-list-container {
-    width: 350px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .task-list-title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.task-list-title span {
     font-size: 16px;
     font-weight: bold;
-    line-height: 60px;
+    line-height: 16px;
+}
+
+.num {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-width: 16px;
+    height: 16px;
+    border-radius: 16px;
+    background: #61b7ee;
+    font-size: 12px;
+    line-height: 12px;
+    color: #fff;
 }
 
 .task-list li {
@@ -88,23 +140,61 @@ a {
     flex-direction: row;
     align-items: center;
     height: 30px;
+    margin-right: 10px;
 }
 
 .task-icon {
-    width: 14px;
-    height: 14px;
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    border-radius: 16px;
+}
+
+.checked {
+    background: url("../img/checked.png") center no-repeat;
+    background-size: 22px 22px;
+}
+
+.no-checked {
     border: 1px #bfbfbf solid;
-    border-radius: 18px;
 }
 
 .task-name {
-    width: 260px;
     height: 30px;
-    line-height:30px;
+    line-height: 30px;
     font-size: 16px;
     color: #666;
     padding-left: 12px;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+
+.ed {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.task-time {
+    padding-left: 6px;
+    padding-right: 6px;
+    height: 16px;
+    border: 1px solid #d2d2d2;
+    text-align: center;
+    line-height: 16px;
+    font-size: 12px;
+    color: #d2d2d2;
+    border-radius: 8px;
+    white-space: nowrap;
+}
+
+.delete {
+    background: url("../img/delete.png") center no-repeat;
+    background-size: 20px 20px;
+    margin-left:4px;
+}
+
+.line-through {
+    text-decoration: line-through;
 }

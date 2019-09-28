@@ -49,7 +49,7 @@ func PopulateTemplates() map[string]*template.Template {
 					tmpl := template.Must(layout.Clone())
 					_, err = tmpl.Parse(string(content))
 					if err != nil {
-						panic("Failed to parse contents of '" + fi.Name() + "' as template")
+						panic("Failed to parse " + fl.Name() + "/" + fi.Name() + " of '" + fi.Name() + "' as template")
 					}
 					result[fl.Name()+"/"+fi.Name()] = tmpl
 				}

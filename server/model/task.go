@@ -15,7 +15,7 @@ type Task struct {
 //通过状态获取事务
 func GetTaskByStatus(status int64) (*[]Task, error) {
 	var task []Task
-	if err := db.Where("status=?", status).Order("create_time desc,update_time").Find(&task).Error; err != nil {
+	if err := db.Where("status=?", status).Order("update_time desc").Find(&task).Error; err != nil {
 		return nil, err
 	}
 	return &task, nil
@@ -24,7 +24,7 @@ func GetTaskByStatus(status int64) (*[]Task, error) {
 //通过ID获取事务
 func GetTaskByID(id int) (*Task, error) {
 	var task Task
-	if err := db.Where("id=", id).Find(&task).Error; err != nil {
+	if err := db.Where("id=?", id).Find(&task).Error; err != nil {
 		return nil, err
 	}
 	return &task, nil
@@ -47,7 +47,7 @@ func UpdateTaskByTaskID(id int, contents map[string]interface{}) error {
 
 //更新事务状态
 func UpdateTaskStatus(id, status int) error {
-	contents := map[string]interface{}{"status": status}
+	contents := map[string]interface{}{"status": status, "update_time": time.Now()}
 	return UpdateTaskByTaskID(id, contents)
 }
 

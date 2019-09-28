@@ -2,6 +2,7 @@ package main
 
 import (
 	"flag"
+	"fmt"
 	"net/http"
 	"os"
 	"runtime"
@@ -42,6 +43,7 @@ func main() {
 		model.SetDB(db)
 		//开启路由
 		controller.Startup()
+		log.Println(fmt.Sprintf("Running at localhost:%v", config.GetPort()))
 		//监听
 		http.ListenAndServe(":"+config.GetPort(), context.ClearHandler(http.DefaultServeMux))
 	}

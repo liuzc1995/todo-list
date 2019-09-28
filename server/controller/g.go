@@ -6,7 +6,6 @@ import (
 
 var (
 	homeController home
-	taskController task
 	templates      map[string]*template.Template
 )
 
@@ -18,5 +17,4 @@ func init() {
 //开启注册路由
 func Startup() {
 	homeController.registerRoutes()
-	taskController.registerRoutes()
 }

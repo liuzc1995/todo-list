@@ -5,30 +5,43 @@
         <div class="add-btn" onclick="addTask()">+</div>
     </div>
     <div class="task-list-container">
-        <p class="task-list-title">Being</p>
+        <div class="task-list-title">
+            <span>Being</span>
+            <div class="num">{{len .TaskBeing}}</div>
+        </div>
         <div class="task-list">
             <ul>
+                {{$tk:=.TaskTime}}
                 {{range .TaskBeing}}
                 <li>
-                    <div class="bd" onclick="doing('{{.ID}}')">
-                        <div class="task-icon"></div>
+                    <div class="bd">
+                        <div class="task-icon no-checked" onclick="changing('{{.ID}}','Finish')"></div>
                         <div class="task-name">{{.TaskName}}</div>
                     </div>
-                    <div class="task-time"></div>
+                    <div class="ed">
+                        <div class="task-time">{{call $tk .UpdateTime}}</div>
+                        <div class="task-icon delete" onclick="deleteTask('{{.ID}}')"></div>
+                    </div>
                 </li>
                 {{end}}
             </ul>
         </div>
-        <p class="task-list-title">Finishing</p>
+        <div class="task-list-title">
+            <span>Finishing</span>
+            <div class="num">{{len .TaskFinish}}</div>
+        </div>
         <div class="task-list">
             <ul>
                 {{range .TaskFinish}}
                 <li>
                     <div class="bd">
-                        <div class="task-icon"></div>
-                        <div class="task-name">{{.TaskName}}</div>
+                        <div class="task-icon checked" onclick="changing('{{.ID}}','Being')"></div>
+                        <div class="task-name line-through">{{.TaskName}}</div>
                     </div>
-                    <div class="task-time"></div>
+                    <div class="ed">
+                        <div class="task-time">{{call $tk .UpdateTime}}</div>
+                        <div class="task-icon delete" onclick="deleteTask('{{.ID}}')"></div>
+                    </div>
                 </li>
                 {{end}}
             </ul>
