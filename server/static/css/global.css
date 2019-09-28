@@ -95,6 +95,7 @@ a {
 }
 
 .task-list-container {
+    width: 800px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
